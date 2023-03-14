@@ -1,0 +1,24 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    background-color: black;
+}
+.container {
+    width: 300px;
+    margin: 50px auto;
+    text-align: center;
+    background-color: white;
+    border-radius: 95px;
+}
+img {
+    width: 250px;
+    border-radius: 75px;
+}
+h1 {
+    font-size: 75px;
+    font-family: 'Bangers', cursive;
+    text-shadow: 2px 4px rgb(190, 188, 188);
+}
